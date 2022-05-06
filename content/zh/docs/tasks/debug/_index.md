@@ -215,6 +215,6 @@ problem, such as:
 * Steps to reproduce the problem
 -->
 * Kubernetes 版本：`kubectl version`
-* 云平台、OS 发行版、网络配置和 Docker 版本
+* 云供应商、OS 发行版、网络配置和 Docker 版本
 * 重现问题的步骤
 
